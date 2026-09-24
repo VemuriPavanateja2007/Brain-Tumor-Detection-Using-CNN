@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Neuro MRI Analysis Using CNN",
+  "description": "AI-assisted analysis of brain MRI images using deep learning. Research and educational AI prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
